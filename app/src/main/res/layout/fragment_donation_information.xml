@@ -27,7 +27,7 @@
                 android:id="@+id/nameET"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Mr. Kalam Seikh"/>
+                android:hint="Mr. Maity"/>
         </com.google.android.material.textfield.TextInputLayout>
     </LinearLayout>
 
@@ -54,7 +54,7 @@
                 android:id="@+id/phoneET"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="017xxxxxxxxx" />
+                android:hint="+91xxxxxxxxx" />
         </com.google.android.material.textfield.TextInputLayout>
     </LinearLayout>
     <LinearLayout
@@ -80,7 +80,7 @@
                 android:id="@+id/addressET"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="29 shukrabad,Dhaka-1207" />
+                android:hint="Jamnagar, westside lake" />
         </com.google.android.material.textfield.TextInputLayout>
     </LinearLayout>
     <LinearLayout
