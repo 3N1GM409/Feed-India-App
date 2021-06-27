@@ -6,5 +6,5 @@ Components used:
 -Firebase
 -Room database
 
-- Used java throughout
+
 You can see screenshots in the folder given.
